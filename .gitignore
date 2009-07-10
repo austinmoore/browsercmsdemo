@@ -1,0 +1,12 @@
+.idea
+*.iml
+*.ipr
+*.iws
+.DS_Store
+log/*.log
+tmp/**/*
+config/database.yml
+db/*.sqlite3
+db/schema.rb
+public/stylesheets/all.css
+public/javascripts/all.js
