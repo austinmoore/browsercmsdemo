@@ -1,6 +1,6 @@
 This is the standard browsercms demo application with a few minor changes:
 
-* new module added
+* news module added (http://github.com/browsermedia/bcms_news/tree/master)
 * custom portlet created (http://www.browsercms.org/doc/guides/html/developer_guide.html)
 
 This demo application is being used to evaluate browsercms.
